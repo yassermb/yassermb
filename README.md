@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="emoji.png" width="50"/> <img src="emoji2.png" width="50"/>
+  <img src="emoji2.png" width="200"/> <img src="emoji.png" width="200"/>
   <br><br>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </div>
