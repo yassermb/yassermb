@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="emoji.png" width="50"/>
+### Hi there 👋 <img src="emoji2.png" width="50"/>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
