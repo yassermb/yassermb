@@ -47,7 +47,13 @@
 - [LEVELNET: diving into the multiple layers of protein-protein physical interaction networks](https://www.biorxiv.org/content/10.1101/2021.07.31.453756v1)
 
 ---
-### :books: are you interested to learn more about deep learning, geometric deep learning and their applications in structural biology? Check out my repositories [DL_STRUCT](https://github.com/yassermb/DL_STRUCT.git) and []().
+### :books: 
+Are you interested to learn more about deep learning and geometric deep learning and their applications in structural biology? Check out my repositories: 
+- [DL_STRUCT](https://github.com/yassermb/DL_STRUCT.git) for geomtric deep learning and structural bioinformatics.
+- [ClassifyProteinDomains](https://github.com/yassermb/ClassifyProteinDomains.git) for pretrained protein language models.
+- [AI4Biologists](https://github.com/yassermb/AI4Biologists.git) AI for biologists (Collaboration with Elodie Laine)
+- [PPI_Mutation](https://github.com/yassermb/PPI_Mutation_Warsaw.git) for studying the effects of mutations.
+
 
 <!--
 **yassermb/yassermb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
