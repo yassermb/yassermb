@@ -8,6 +8,15 @@ My name is Yasser and I'm a bioinformatician interested in designing new computa
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </div>
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://www.linkedin.com/in/yasser-mohseni-aaa26b242" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 <!--
 **yassermb/yassermb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
