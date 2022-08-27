@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-I'm a bioinformatician interested in designing new computational frameworks to study protein and their interactions and how mutations affect them.
+My name is Yasser and I'm a bioinformatician interested in designing new computational frameworks based on deep learning to study protein and their interactions and how mutations affect them.
 
 <div id="header" align="center">
   <!--img src="emoji2.png" width="200"/--> <img src="emoji.png" width="200"/>
