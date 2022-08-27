@@ -39,13 +39,15 @@
 
 ---
 
-### :writing_hand: Some of my articles :
+### :writing_hand: Some of my articles:
 
 - [Deep Local Analysis evaluates protein docking conformations with locally oriented cubes](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac551/6665900)
 - [From complete cross-docking to partners identification and binding sites predictions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009825)
 - [Vanishing boosted weights: A consistent algorithm to learn interpretable rules](https://www.sciencedirect.com/science/article/pii/S0167865521003081)
 - [LEVELNET: diving into the multiple layers of protein-protein physical interaction networks](https://www.biorxiv.org/content/10.1101/2021.07.31.453756v1)
 
+---
+### :books: are you interested to learn more about deep learning, geometric deep learning and their applications in structural biology? Check out my repositories [DL_STRUCT](https://github.com/yassermb/DL_STRUCT.git) and []().
 
 <!--
 **yassermb/yassermb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
