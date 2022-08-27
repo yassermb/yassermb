@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### This is Yasser! I'm a bioinformatician interested in designing new computational frameworks based on deep learning to break down the complexity of protein-protein interactions and study the effects of mutations on them.
+### This is Yasser! I'm a bioinformatician interested in designing new computational frameworks based on deep learning to break down the complexity of protein-protein interactions.
 
 ---
 
