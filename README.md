@@ -20,7 +20,7 @@
 ### This is Yasser! I'm a bioinformatician interested in designing new computational frameworks based on deep learning to break down the complexity of protein-protein interactions.
 
 <div align='center'>
-  <img src="1qrr_3inter.svg" width="600"/> <img src="chlamynet.svg" width="600"/>
+  <img src="1qrr_3inter.svg" width="400"/> <img src="chlamynet.svg" width="500"/>
 </div>
 
 ---
