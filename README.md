@@ -44,6 +44,7 @@
 - [Deep Local Analysis evaluates protein docking conformations with locally oriented cubes](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac551/6665900)
 - [From complete cross-docking to partners identification and binding sites predictions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009825)
 - [Vanishing boosted weights: A consistent algorithm to learn interpretable rules](https://www.sciencedirect.com/science/article/pii/S0167865521003081)
+- [LEVELNET: diving into the multiple layers of protein-protein physical interaction networks](https://www.biorxiv.org/content/10.1101/2021.07.31.453756v1)
 
 
 <!--
