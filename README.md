@@ -47,8 +47,7 @@
 - [LEVELNET: diving into the multiple layers of protein-protein physical interaction networks](https://www.biorxiv.org/content/10.1101/2021.07.31.453756v1)
 
 ---
-### :books: 
-Are you interested to learn more about deep learning and geometric deep learning and their applications in structural biology? Check out my repositories: 
+### :books: Are you interested to learn more about deep learning and its applications in biology? Check out my repositories: 
 - [DL_STRUCT](https://github.com/yassermb/DL_STRUCT.git) for geomtric deep learning and structural bioinformatics.
 - [ClassifyProteinDomains](https://github.com/yassermb/ClassifyProteinDomains.git) for pretrained protein language models.
 - [AI4Biologists](https://github.com/yassermb/AI4Biologists.git) AI for biologists (Collaboration with Elodie Laine)
