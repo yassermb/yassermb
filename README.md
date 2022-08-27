@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-My name is Yasser and I'm a bioinformatician interested in designing new computational frameworks based on deep learning to break down the complexity of protein-protein interactions and study how mutations can affect them.
+## I'm a bioinformatician interested in designing new computational frameworks based on deep learning to break down the complexity of protein-protein interactions and study how mutations can affect them.
 
 <div id="header" align="center">
   <!--img src="emoji2.png" width="200"/--> <img src="emoji.png" width="200"/>
