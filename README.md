@@ -2,6 +2,7 @@
 
 <div id="header" align="center">
   <img src="emoji.png" width="50"/> <img src="emoji2.png" width="50"/>
+  <br><br>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </div>
 
