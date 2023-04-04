@@ -23,6 +23,11 @@
   <img src="1qrr_3inter.svg" width="400"/> <img src="chlamynet.svg" width="500"/>
 </div>
 
+<video style="width:100%" controls>
+  <source src="partnerdiscovery.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
