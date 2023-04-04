@@ -21,25 +21,10 @@
 
 <div align='center'>
   <img src="1qrr_3inter.svg" width="400"/> <img src="chlamynet.svg" width="500"/>
+  <!--img src="partnerdiscovery.gif" width="600"/> <img src="chlamynet.svg" width="800"/-->
 </div>
-
-<div align='center'>
-<video style="width:100%" controls>
-  <source src="partnerdiscovery.mp4" type="video/mp4">
-</video>
-</div>
-
-
-
-
 
 https://user-images.githubusercontent.com/43788403/229826435-469f1d51-5ea2-4b29-a321-8ade45db66c0.mp4
-
-
-
-
-
-
 
 ---
 
